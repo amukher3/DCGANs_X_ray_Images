@@ -9,3 +9,5 @@ This is still work in progress.
 ![](fake_samples_epoch_1998.png)
 
 I have less than 70 ground truth samples. I had to augment the data-set by replication and data-generator. The quality of the images generated are not of the highest quality yet. This is still `work in progress`.
+
+`Comit details are in:https://bitbucket.org/dashboard/overview`
