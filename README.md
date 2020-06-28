@@ -1,5 +1,5 @@
 # DCGANs_Infected_SI_joint_Images
-Using DCGANs to generate X-ray images of Sacroiliac joints infected by some kind of arthiritis. 
+Using DCGANs to generate X-ray images of Sacroiliac joints infected by _Ankylosing Spondylitits_. 
 This is still work in progress. 
 
 ***Ground-truth samples:***
